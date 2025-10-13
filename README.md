@@ -56,7 +56,6 @@
 
 # SQL & запросы
 
-```sql
 -- Выбирает все значения таблицы "Books"
 SELECT * FROM Books;
 
