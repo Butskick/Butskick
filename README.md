@@ -24,10 +24,10 @@
 - Написание SQL-запросов (SELECT, JOIN, WHERE, ORDER BY и др.)  
 
 **Инструменты:**
-- 🧾 **Jira**, **Qase**, **TestIT**  
-- 🧩 **Postman**, **Chrome DevTools**  
-- 🐘 **PostgreSQL / MySQL**  
-- 💻 **Git / GitHub**  
+- **Jira**, **Qase**, **TestIT**  
+- **Postman**, **Chrome DevTools**  
+- **PostgreSQL / MySQL**  
+- **Git / GitHub**  
 
 **Методологии:**
 - Agile / Scrum / Kanban / Waterfall
