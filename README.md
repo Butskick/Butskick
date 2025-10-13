@@ -54,7 +54,7 @@
 
 ---
 
-# SQL & запросы
+## SQL & запросы
 
 -- Выбирает все значения таблицы "Books"
 SELECT * FROM Books;
@@ -77,7 +77,7 @@ WHERE
 
 ---
 
-**# Postman / API**
+**## Postman / API**
 
 POST /Account/v1/User — **создание пользователя**
 <img width="1608" height="1018" alt="image" src="https://github.com/user-attachments/assets/cee30d71-d28b-436f-9c61-2d180a0567f5" />
@@ -93,7 +93,7 @@ DELETE /BookStore/v1/Book — **удаление несуществующей к
 
 ---
 
-**# DevTools**
+**## DevTools**
 
 Ошибка 503 при вводе данных — страница "исчезает"
 <img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/71c677cb-2604-49c0-8d5b-791876dd0b1d" />
@@ -106,7 +106,7 @@ DELETE /BookStore/v1/Book — **удаление несуществующей к
 
 ---
 
-**# Контакты**
+**## Контакты**
 
 * **Email:** \chuurippu@mail.ru
 * **LinkedIn:** \[вставить позже]
@@ -114,7 +114,7 @@ DELETE /BookStore/v1/Book — **удаление несуществующей к
 
 ---
 
-**# Лицензия / Примечания**
+**## Лицензия / Примечания**
 
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/0b011002-675c-42cf-b911-5768f2f9b12b" />
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/ad892bf7-3636-4e74-a4e0-9cd7cae92b67" />
