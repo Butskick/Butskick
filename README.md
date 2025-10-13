@@ -78,23 +78,23 @@ WHERE
 
 ---
 
-# Postman / API
+**# Postman / API**
 
-POST /Account/v1/User — создание пользователя
+POST /Account/v1/User — **создание пользователя**
 <img width="1608" height="1018" alt="image" src="https://github.com/user-attachments/assets/cee30d71-d28b-436f-9c61-2d180a0567f5" />
 
-POST /Account/v1/GenerateToken — генерация токена
+POST /Account/v1/GenerateToken — **генерация токена**
 <img width="1603" height="1014" alt="image" src="https://github.com/user-attachments/assets/cbebe8e4-acf7-459c-b011-7bc8ead6663e" />
 
-GET /BookStore/v1/Books — список книг
+GET /BookStore/v1/Books — **список книг**
 <img width="1606" height="1018" alt="image" src="https://github.com/user-attachments/assets/e9a4ea3f-0d19-458a-a307-46c3108f98ab" />
 
-DELETE /BookStore/v1/Book — удаление несуществующей книги
+DELETE /BookStore/v1/Book — **удаление несуществующей книги**
 <img width="1608" height="1019" alt="image" src="https://github.com/user-attachments/assets/d70bf6c3-9c25-4e64-921c-3cbca9b53d75" />
 
 ---
 
-# DevTools
+**# DevTools**
 
 Ошибка 503 при вводе данных — страница "исчезает"
 <img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/71c677cb-2604-49c0-8d5b-791876dd0b1d" />
@@ -107,15 +107,15 @@ DELETE /BookStore/v1/Book — удаление несуществующей кн
 
 ---
 
-# Контакты
+**# Контакты**
 
-* Email: \chuurippu@mail.ru
-* LinkedIn: \[вставить позже]
-* Telegram: @butskick
+* **Email:** \chuurippu@mail.ru
+* **LinkedIn:** \[вставить позже]
+* **Telegram:** @butskick
 
 ---
 
-# Лицензия / Примечания
+**# Лицензия / Примечания**
 
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/0b011002-675c-42cf-b911-5768f2f9b12b" />
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/ad892bf7-3636-4e74-a4e0-9cd7cae92b67" />
