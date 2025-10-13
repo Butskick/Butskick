@@ -36,7 +36,7 @@
 
 ## 🚀 Проекты
 
-### 🧩 Проект 1. DEMOQA — тестирование API и UI
+### Проект 1. DEMOQA — тестирование API и UI
 
 **Описание:**  
 Учебный проект по тестированию сайта [DEMOQA Book Store](https://demoqa.com/books).  
@@ -48,8 +48,15 @@
 - 📄 **Тест-план:** [https://docs.google.com/document/d/1DCZT-mOCxqhMC47pamGK8wEW45sPLjdNG3skO8xG8qE/edit?usp=sharing]  
 - 🧠 **Тест-кейсы и 🐞 Баг-репорты: (Jira):** [https://chuurippu.atlassian.net/jira/software/projects/PROJ/boards/35?atlOrigin=eyJpIjoiOGVhYWVhNzQyMDIxNDg1OWEzNzQ0OGZlOThmYWQxZjciLCJwIjoiaiJ9]
 
+### Проект 2. SauceDemo — тестирование интернет-магазина
+
+**Описание:**
+Проект создан для демонстрации практических навыков ручного тестирования на примере сайта saucedemo.com
+Проверялись ключевые функции интернет-магазина — авторизация, добавление и удаление товаров, работа корзины, оформление заказа и сортировка.
+
 **Состав проекта 2:**
 - 📋 **Чек-лист:** [https://docs.google.com/spreadsheets/d/1EVWE5csb731MQcnNdxo3z1SRdRUGecOhFG83a_U9M5Y/edit?usp=sharing]
+- 📄 **Тест-план:** [https://docs.google.com/document/d/1s6bUuHxJp7zrxYWXO7FsdO2QpHJeVQvZAKFg-day5tE/edit?usp=sharing]
 - 🧠 **Тест-кейсы и 🐞 Баг-репорты: (Jira):** [https://chuurippu.atlassian.net/jira/software/projects/PRJ/boards/68?atlOrigin=eyJpIjoiNWI0OGJjZDBiM2UzNGYxNWJiZTVlZDMzMDg0MTQ4ZjIiLCJwIjoiaiJ9]
 
 ---
