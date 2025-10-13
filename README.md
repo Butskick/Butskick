@@ -61,15 +61,15 @@
 
 ---
 
-## SQL & запросы
+## 🗄️ SQL & запросы
 
--- Выбирает все значения таблицы "Books"
+-- **Выбирает все значения таблицы "Books"**
 SELECT * FROM Books;
 
--- Выбирает заголовок и автора в книгах, содержащих более 300 страниц
+-- **Выбирает заголовок и автора в книгах, содержащих более 300 страниц**
   SELECT Title, Author FROM Books WHERE Pages > 300;
 
--- Выбирает пользователей, у которых в коллекции есть книги автора Robert C. Martin.
+-- **Выбирает пользователей, у которых в коллекции есть книги автора Robert C. Martin.**
 SELECT 
     users.id,
     users.username,
@@ -84,36 +84,36 @@ WHERE
 
 ---
 
-## **Postman / API**
+## 📮 **Postman / API**
 
-POST /Account/v1/User — **создание пользователя**
+POST /Account/v1/User — 🤱 **создание пользователя**
 <img width="1608" height="1018" alt="image" src="https://github.com/user-attachments/assets/cee30d71-d28b-436f-9c61-2d180a0567f5" />
 
-POST /Account/v1/GenerateToken — **генерация токена**
+POST /Account/v1/GenerateToken — 🔑 **генерация токена**
 <img width="1603" height="1014" alt="image" src="https://github.com/user-attachments/assets/cbebe8e4-acf7-459c-b011-7bc8ead6663e" />
 
-GET /BookStore/v1/Books — **список книг**
+GET /BookStore/v1/Books — 📚 **список книг**
 <img width="1606" height="1018" alt="image" src="https://github.com/user-attachments/assets/e9a4ea3f-0d19-458a-a307-46c3108f98ab" />
 
-DELETE /BookStore/v1/Book — **удаление несуществующей книги**
+DELETE /BookStore/v1/Book — 🔥 **удаление несуществующей книги**
 <img width="1608" height="1019" alt="image" src="https://github.com/user-attachments/assets/d70bf6c3-9c25-4e64-921c-3cbca9b53d75" />
 
 ---
 
-## **DevTools**
+## 📂 **DevTools**
 
-Ошибка 503 при вводе данных — страница "исчезает"
+❗ Ошибка 503 при вводе данных — страница "исчезает"
 <img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/71c677cb-2604-49c0-8d5b-791876dd0b1d" />
 
-Некорректные запросы в Network при отправке формы авторизации
+⚠ Некорректные запросы в Network при отправке формы авторизации
 <img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/67bc363c-e3a8-463a-a3cc-f5fae9ef742f" />
 
-Успешное удаление товаров из корзины, ответ - 200
+✅ Успешное удаление товаров из корзины, ответ - 200
 <img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/7430d99e-feb0-4860-8ce2-3fc6542b39da" />
 
 ---
 
-## **Контакты**
+## 🤝 **Контакты**
 
 * **Email:** \chuurippu@mail.ru
 * **LinkedIn:** \[вставить позже]
@@ -121,7 +121,7 @@ DELETE /BookStore/v1/Book — **удаление несуществующей к
 
 ---
 
-## **Лицензия / Примечания**
+## 📜 **Лицензия**
 
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/0b011002-675c-42cf-b911-5768f2f9b12b" />
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/ad892bf7-3636-4e74-a4e0-9cd7cae92b67" />
