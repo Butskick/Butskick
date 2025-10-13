@@ -94,6 +94,19 @@ DELETE /BookStore/v1/Book — удаление несуществующей кн
 
 ---
 
+# DevTools
+
+Ошибка 503 при вводе данных — страница "исчезает"
+<img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/71c677cb-2604-49c0-8d5b-791876dd0b1d" />
+
+Некорректные запросы в Network при отправке формы авторизации
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/67bc363c-e3a8-463a-a3cc-f5fae9ef742f" />
+
+Успешное удаление товаров из корзины, ответ - 200
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/7430d99e-feb0-4860-8ce2-3fc6542b39da" />
+
+---
+
 # Контакты
 
 * Email: \chuurippu@mail.ru
@@ -104,8 +117,6 @@ DELETE /BookStore/v1/Book — удаление несуществующей кн
 
 # Лицензия / Примечания
 
-Материалы в репозитории — демонстрационные. Если нужно, могу помочь оформить английскую версию README и аккуратно подготовить артефакты для HR.
+<img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/0b011002-675c-42cf-b911-5768f2f9b12b" />
+<img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/ad892bf7-3636-4e74-a4e0-9cd7cae92b67" />
 
----
-
-> *Подсказка:* не загружайте в репозиторий рабочие пароли или приватные данные. Все скриншоты — с тестовыми данными.
