@@ -1,6 +1,6 @@
-# QA-портфолио — \Алина Буцких
+# QA-портфолио — Алина Буцких
 
-## 👋 Обо мне
+## Обо мне
 "Привет! Меня зовут Алина, QA Engineer с коммерческим опытом тестирования web-продукта в медицинской сфере. Занимаюсь функциональным, регрессионным и интеграционным тестированием, ведением тестовой документации, анализом требований и взаимодействием с командой разработки.
 
 Работаю с баг-репортами, тест-кейсами, пользовательскими сценариями и проверкой бизнес-логики. Имею опыт API testing и изучаю автоматизацию тестирования на Python.
@@ -9,136 +9,106 @@
 
 ---
 
-## 🧰 Мои навыки и инструменты
+## Мои навыки и инструменты
 
-**Типы тестирования:**
-- Функциональное / Нефункциональное  
-- UI / API тестирование  
-- Smoke / Regression / Ad-hoc  
-- Тестирование веб-приложений и клиент-серверных систем  
+**Виды тестирования:**
 
-**Навыки:**
-- Анализ требований  
-- Составление тест-кейсов, чек-листов, баг-репортов  
-- Работа с DevTools и Postman  
-- Проверка запросов и ответов, работа с JSON  
-- Написание SQL-запросов (SELECT, JOIN, WHERE, ORDER BY и др.)
-- Работа с ssh
-- Работа с логами
+- Функциональное тестирование
+- UI / API тестирование
+- Регрессионное и smoke-тестирование
+- Исследовательское (ad-hoc) тестирование
+- Тестирование веб-приложений и клиент-серверной архитектуры 
+
+**Практические навыки:**
+
+- Анализ требований и декомпозиция функциональности
+- Разработка тест-кейсов, чек-листов и баг-репортов
+- Тест-дизайн пользовательских сценариев
+- Тестирование REST API (Postman)
+- Работа с JSON (запросы и ответы API)
+- Проверка бизнес-логики и валидации данных
+- SQL-запросы для проверки данных (SELECT, JOIN, WHERE, ORDER BY)
+- Анализ логов и диагностика ошибок
+- Работа с SSH и удалёнными окружениями (базовый уровень)
 
 **Инструменты:**
-- **Jira**, **Qase**, **TestIT**  
-- **Postman**, **Chrome DevTools**  
-- **PostgreSQL / MySQL**  
-- **Git / GitHub**
-- **Docker**
-- **Datagrip**
-- **Bitrix24**
-
-**Методологии:**
-- Agile / Scrum / Kanban / Waterfall
+- Jira, Qase, TestIT
+- Postman, Swagger
+- Chrome DevTools
+- PostgreSQL / MySQL
+- Git / GitHub (базовый уровень)
+- Docker (взаимодействие с окружением)
+- DataGrip
+- Bitrix24
 
 ---
 
-## 🚀 Проекты
+## Медтех. проект
+### Коммерческий медицинский web-продукт (QA Engineer)
 
-### Проект 1. DEMOQA — тестирование API и UI
+**Описание проекта:**
+Web-платформа медицинского назначения для обработки и анализа данных пациентов с клиент-серверной архитектурой и интеграцией с внешними системами (LIS/MIS). Продукт включает работу с диагностическими данными, системой разметки медицинских изображений для анализа, а также результатами обработки данных и интерфейсами для врачей и специалистов.
 
-**Описание:**  
-Учебный проект по тестированию сайта [DEMOQA Book Store](https://demoqa.com/books).  
-Проверка функционала авторизации, добавления книг, получения и удаления данных через API.  
-Дополнительно протестированы UI-элементы и их соответствие ожидаемому поведению.
+**Моя роль в проекте:**
+QA Engineer
 
-**Состав проекта 1:**
-- 📋 **Чек-лист:** [https://docs.google.com/spreadsheets/d/1-8wOPv9jDyagjdeCUMK0pa_JNP9ZRmA0Vcp_pXQrtVs/edit?usp=sharing]
-- 📄 **Тест-план:** [https://docs.google.com/document/d/1DCZT-mOCxqhMC47pamGK8wEW45sPLjdNG3skO8xG8qE/edit?usp=sharing]  
-- 🧠 **Тест-кейсы и 🐞 Баг-репорты: (Jira):** [https://chuurippu.atlassian.net/jira/software/projects/PROJ/boards/35?atlOrigin=eyJpIjoiOGVhYWVhNzQyMDIxNDg1OWEzNzQ0OGZlOThmYWQxZjciLCJwIjoiaiJ9]
+**Задачи:**
 
-### Проект 2. SauceDemo — тестирование интернет-магазина
-
-**Описание:**
-Проект создан для демонстрации практических навыков ручного тестирования на примере сайта saucedemo.com
-Проверялись ключевые функции интернет-магазина — авторизация, добавление и удаление товаров, работа корзины, оформление заказа и сортировка.
-
-**Состав проекта 2:**
-- 📋 **Чек-лист:** [https://docs.google.com/spreadsheets/d/1EVWE5csb731MQcnNdxo3z1SRdRUGecOhFG83a_U9M5Y/edit?usp=sharing]
-- 📄 **Тест-план:** [https://docs.google.com/document/d/1s6bUuHxJp7zrxYWXO7FsdO2QpHJeVQvZAKFg-day5tE/edit?usp=sharing]
-- 🧠 **Тест-кейсы и 🐞 Баг-репорты: (Jira):** [https://chuurippu.atlassian.net/jira/software/projects/PRJ/boards/68?atlOrigin=eyJpIjoiNWI0OGJjZDBiM2UzNGYxNWJiZTVlZDMzMDg0MTQ4ZjIiLCJwIjoiaiJ9]
-
-### Проект 3. Медицинский стартап
-
-**Описание:** внутренние тестовые веб-приложения и сервисы для проверки функциональности.
-
-**Что сделано:**
-- Настроила процессы QA с нуля: тест-кейсы, баг-репорты, чек-листы.
-- Проверяла логику работы веб-приложений и взаимодействие с API.
-- Внесла улучшения в процессы тестирования, повысив точность выявления ошибок.
-
-  К сожалению, не могу выложить состав проекта в связи с правилом о неразглашении конфиденциальной информации.
+- функциональное, регрессионное и интеграционное тестирование web-приложения;
+- тестирование REST API и проверка корректности обмена данными между сервисами;
+- тестирование обработки, загрузки и отображения медицинских изображений;
+- анализ бизнес-логики и пользовательских сценариев;
+- создание и поддержка тест-кейсов, чек-листов и баг-репортов;
+- проверка корректности данных и результатов обработки;
+- анализ логов и диагностика дефектов;
+- взаимодействие с командой разработки (уточнение требований, постановка багов);
+- участие в улучшении QA-процессов проекта.
   
 ---
 
-## 🗄️ SQL & запросы
+## SQL & запросы
 
--- **Выбирает все значения таблицы "Books"**
-SELECT * FROM Books;
+-- Проверка наличия дубликатов пользователей
+SELECT email, COUNT(*)
+FROM users
+GROUP BY email
+HAVING COUNT(*) > 1;
 
--- **Выбирает заголовок и автора в книгах, содержащих более 300 страниц**
-  SELECT Title, Author FROM Books WHERE Pages > 300;
-
--- **Выбирает пользователей, у которых в коллекции есть книги автора Robert C. Martin.**
-SELECT 
-    users.id,
-    users.username,
-    books.title,
-    books.author
-FROM 
-    users
-JOIN 
-    user_books ON users.id = user_books.user_id
-WHERE 
-    books.author = 'Robert C. Martin';
+-- Проверка заказов пользователя после оформления
+SELECT order_id, status, created_at
+FROM orders
+WHERE user_id = 15;
 
 ---
 
-## 📮 **Postman / API**
+## **Postman / API**
 
-POST /Account/v1/User — 🤱 **создание пользователя**
-<img width="1608" height="1018" alt="image" src="https://github.com/user-attachments/assets/cee30d71-d28b-436f-9c61-2d180a0567f5" />
+POST /Account/v1/GenerateToken — **генерация токена**
+<img width="1603" height="1014" alt="image" src="C:\Users\Alina\Documents\Git\params.jpg" />
 
-POST /Account/v1/GenerateToken — 🔑 **генерация токена**
-<img width="1603" height="1014" alt="image" src="https://github.com/user-attachments/assets/cbebe8e4-acf7-459c-b011-7bc8ead6663e" />
-
-GET /BookStore/v1/Books — 📚 **список книг**
-<img width="1606" height="1018" alt="image" src="https://github.com/user-attachments/assets/e9a4ea3f-0d19-458a-a307-46c3108f98ab" />
-
-DELETE /BookStore/v1/Book — 🔥 **удаление несуществующей книги**
-<img width="1608" height="1019" alt="image" src="https://github.com/user-attachments/assets/d70bf6c3-9c25-4e64-921c-3cbca9b53d75" />
+GET /BookStore/v1/Books — **список книг**
+<img width="1606" height="1018" alt="image" src="C:\Users\Alina\Documents\Git\syndroms.jpg" />
 
 ---
 
-## 📂 **DevTools**
+## **DevTools**
 
-❗ Ошибка 503 при вводе данных — страница "исчезает"
-<img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/71c677cb-2604-49c0-8d5b-791876dd0b1d" />
+Ошибка 500 при вводе попытки скачать отчёт, потеря связи с сервером
+<img width="1918" height="876" alt="image" src="C:\Users\Alina\Documents\Git\500.jpg" />
 
-⚠ Некорректные запросы в Network при отправке формы авторизации
-<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/67bc363c-e3a8-463a-a3cc-f5fae9ef742f" />
-
-✅ Успешное удаление товаров из корзины, ответ - 200
-<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/7430d99e-feb0-4860-8ce2-3fc6542b39da" />
+Неверный путь для отображения фото на странице
+<img width="1919" height="878" alt="image" src="C:\Users\Alina\Documents\Git\wrong_way.jpg" />
 
 ---
 
-## 🤝 **Контакты**
+## **Контакты**
 
 * **Email:** \chuurippu@mail.ru
-* **LinkedIn:** \[вставить позже]
 * **Telegram:** @butskick
 
 ---
 
-## 📜 **Лицензия**
+## **Лицензия**
 
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/0b011002-675c-42cf-b911-5768f2f9b12b" />
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/ad892bf7-3636-4e74-a4e0-9cd7cae92b67" />
