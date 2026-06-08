@@ -108,7 +108,7 @@ GET /BookStore/v1/Books — **список книг**
 
 ---
 
-## **Лицензия**
+## **Сертификат о пройденных курсах**
 
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/0b011002-675c-42cf-b911-5768f2f9b12b" />
 <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/ad892bf7-3636-4e74-a4e0-9cd7cae92b67" />
