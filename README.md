@@ -84,7 +84,7 @@ WHERE user_id = 15;
 ## **Postman / API**
 
 Настройка параметров
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/60366d49-4e0c-430f-ac07-2200c7600291" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/60366d49-4e0c-430f-ac07-2200c7600291" />
 
 
 Body raw и ответ сервера
