@@ -80,15 +80,18 @@ FROM orders
 WHERE user_id = 15;
 
 ---
+Ниже скриншоты представлены из рабочих проектов, все чувствительные данные изменены в целях соблюдения конфиденциальности.
 
 ## **Postman / API**
 
 Настройка параметров
-<img width="1400" height="900" alt="image" src="https://github.com/user-attachments/assets/60366d49-4e0c-430f-ac07-2200c7600291" />
+<img width="1800" height="874" alt="image" src="https://github.com/user-attachments/assets/ef730b33-24b6-4d41-8bda-a3fd24c91a39" />
+
 
 
 Body raw и ответ сервера
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/e1e32c64-c3f2-4b01-971e-1b729d299827" />
+<img width="1492" height="1054" alt="image" src="https://github.com/user-attachments/assets/b44259e0-9b3a-4f50-baea-2eb91fb19f2d" />
+
 
 
 ---
@@ -96,12 +99,14 @@ Body raw и ответ сервера
 ## **DevTools**
 
 Анализ ошибки 500 через DevTools (Network/Response), выявление проблемного запроса к backend
-<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/8c1f5249-00e6-44fc-8d22-89ad7f2af96b" />
+<img width="1083" height="1452" alt="image" src="https://github.com/user-attachments/assets/83e8aa76-6ea6-4415-9ec5-31ba10ac9529" />
+
 
 
 
 Неверный путь для отображения фото на странице
-<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/c3e6779b-16b2-4b56-8d90-bc66e9a5f574" />
+<img width="1334" height="1179" alt="image" src="https://github.com/user-attachments/assets/8e1d6e14-060a-4afd-a42f-37256b175f2c" />
+
 
 
 ---
