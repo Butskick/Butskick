@@ -86,7 +86,7 @@ QA Engineer с коммерческим опытом тестирования в
 
 **Технологии:** Python, pytest, `unittest.mock`.
 
-"""
+```
 from unittest.mock import Mock
 
 import pytest
@@ -124,7 +124,7 @@ def test_upload_sends_post_request_to_expected_endpoint():
         "https://example.test/api/files",
         files={"file": ("sample.jpg", b"test-image-content")},
     )
-"""
+```
 
 ## SQL и примеры запросов
 
